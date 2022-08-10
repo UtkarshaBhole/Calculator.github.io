@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.formstyle{
+    background-color: black;
+    width: 22vw;
+    height: 60vh;
+    margin-top: 10rem;
+    margin-left: 38em;
+    box-shadow: 4px 4px 4px 10px rgb(80, 77, 77);
+}
+
+.container button{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin: 10px;
+}
